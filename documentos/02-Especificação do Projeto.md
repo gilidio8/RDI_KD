@@ -2,62 +2,63 @@
 
 ## Perfis de Usuários
 
-[Enumere e faça o detalhamento dos perfis de usuários. Utilize o modelo de tabela abaixo para sintetizá-los.]
-
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil Nome </th>
+<th colspan="2">Desenvolvedor</th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">...</td>
+<td width="600px">Profissional responsável por implementar e manter o código-fonte das aplicações.</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>...</td>
+<td>Buscar soluções para erros, identificar padrões em commits, e melhorar a produtividade com base em sugestões do sistema.</td>
 </tr>
 </tbody>
 </table>
 
+<table>
+<tbody>
+<tr align=center>
+<th colspan="2">Analista de Suporte</th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">Profissional que lida com incidentes e problemas técnicos.</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>Encontrar rapidamente soluções para incidentes com base em registros anteriores.</td>
+</tr>
+</tbody>
+</table>
 
 ## Histórias de Usuários
 
-[Apresente aqui as histórias de usuários que são relevantes para o projeto da solução.]
-
-> **Link Útil**:
-> - [Como escrever boas histórias de usuário](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-
-[Utilize o modelo de tabela abaixo para apresentar as histórias de usuários.]
-
-|EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
-|--------------------|---------------------------|----------------------------------|
-| ...                | ...                       | ...                              |
-| ...                | ...                       | ...                              |
+|EU COMO... `QUEM`         | QUERO/PRECISO ... `O QUE`                           |PARA ... `PORQUE`                         |
+|--------------------------|-----------------------------------------------------|------------------------------------------|
+| Desenvolvedor            | Receber sugestões de código comentado              | Resolver problemas mais rapidamente      |
+| Analista de Suporte      | Obter respostas baseadas em incidentes anteriores  | Acelerar o atendimento de chamados       |
+| Gestor de TI             | Visualizar relatórios sobre padrões de incidentes  | Tomar decisões mais estratégicas         |
 
 ## Requisitos do Projeto
 
-[Com base nas Histórias de Usuários, enumere os requisitos da solução. Lembre-se que cada requisito deve corresponder a uma, e somente uma, característica alvo da solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.]
-
 ### Requisitos Funcionais
 
-[Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
-
-|ID    | Descrição                | Prioridade |
-|-------|---------------------------------|----|
-| RF-01 |  ...                    | ...   | 
-|  ...  |  ...                    | ...   |
-
-**Prioridade: Alta / Média / Baixa. 
+|ID    | Descrição                                                                 | Prioridade |
+|------|---------------------------------------------------------------------------|------------|
+| RF-01 | Analisar histórico de commits e incidentes                              | Alta       |
+| RF-02 | Fornecer sugestões baseadas em entrada do usuário                       | Alta       |
+| RF-03 | Integrar-se com plataformas como Jira e GitHub                          | Alta       |
+| RF-04 | Aprender com feedback do usuário                                        | Média      |
+| RF-05 | Exibir resultados relevantes com base em similaridade e contexto        | Alta       |
 
 ### Requisitos não Funcionais
 
-[Utilize o modelo de tabela abaixo para apresentar os requisitos não-funcionais]
-
-|ID      | Descrição               |Prioridade |
-|--------|-------------------------|----|
-| RNF-01 |  ...                    | ...   | 
-| ...    |  ...                    | ...   | 
-
-**Prioridade: Alta / Média / Baixa. 
-
+|ID      | Descrição                                                              |Prioridade |
+|--------|------------------------------------------------------------------------|-----------|
+| RNF-01 | Sistema deve responder em tempo real (< 2s por sugestão)               | Alta      |
+| RNF-02 | Armazenar embeddings vetoriais com alta performance                    | Alta      |
+| RNF-03 | Interface amigável e responsiva                                        | Média     |
+| RNF-04 | Código modular e bem documentado para fácil manutenção                 | Média     |
