@@ -1,35 +1,27 @@
 # Introdução
 
-[Aqui a equipe deve criar um texto descritivo com a visão geral do problema abordado, apresentando o ambiente e as situações envolvidas no problema.]
+A crescente complexidade no desenvolvimento de software e a alta rotatividade de equipes tornam essencial a preservação e o acesso rápido ao conhecimento técnico acumulado. Muitas vezes, as soluções para problemas enfrentados no passado estão dispersas em registros de incidentes ou escondidas em históricos de commits. A ausência de um sistema inteligente para centralizar e disponibilizar esse conhecimento impacta diretamente na eficiência da equipe técnica.
 
 ## Problema
-[Aqui a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.]
 
-Este link pode ajudar a equipe a entender mais sobre definição do problema: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-
+Equipes de desenvolvimento e suporte enfrentam dificuldades para localizar e reutilizar conhecimento técnico já documentado em incidentes anteriores ou em alterações de código. Isso resulta em perda de tempo, retrabalho e soluções ineficientes. A ausência de uma ferramenta que conecte esses registros de forma inteligente com as necessidades atuais do usuário impede o aproveitamento do histórico como fonte de aprendizado e otimização de processos.
 
 ## Objetivos
 
-[Aqui a equipe deve realizar uma descrição detalhada dos objetivos do trabalho, ressaltando quais as questões principais do problema a serem resolvidas pelo projeto, não é a hora de apresentar requisitos detalhados.]
- 
-Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
+Desenvolver um sistema inteligente capaz de:
+- Integrar registros de incidentes e históricos de commits de código.
+- Utilizar Inteligência Artificial para sugerir soluções com base nesses dados.
+- Oferecer uma interface conversacional acessível e eficiente.
+- Aprender com o feedback dos usuários para evoluir continuamente.
 
 ## Justificativa
 
-[Aqui a equipe deve descrever a importância ou a motivação para trabalhar com o problema definido. Indique as razões pelas quais a equipe escolheu o problema e definiu os objetivos.
-
-Devem ser apresentados dados de fontes relevantes e confiáveis sobre o problema, inserindo-o como alvo de estudo. Sugere-se que a equipe utilize questionários, entrevistas e dados estatísticos, que devem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pela equipe.]
-
-Este link pode ajudar a equipe a formular a justificativa: [Como montar a justificativa.](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A recuperação do conhecimento técnico de forma automatizada é um desafio comum em organizações que lidam com grandes volumes de dados históricos. A proposta deste projeto justifica-se pela necessidade de aproveitar esse acervo técnico de forma inteligente, aumentando a eficiência e reduzindo o tempo de resposta a problemas recorrentes. Além disso, o uso de tecnologias como LLMs, SVD, e TF-IDF garante uma abordagem moderna e escalável para esse desafio.
 
 ## Público-Alvo
 
-[Aqui é necessário descrever os atores envolvidos no problema, destacando os diferentes perfis de usuários. O propósito é apresentar as características, necessidades, conhecimentos prévios e experiência com a tecnologia do público-alvo.
+- **Desenvolvedores de Software**: usuários com conhecimento técnico avançado, que precisam encontrar rapidamente soluções já aplicadas em projetos anteriores.
+- **Analistas de Suporte Técnico**: profissionais que buscam resoluções rápidas para incidentes e falhas técnicas recorrentes.
+- **Gestores de Equipe Técnica**: interessados em relatórios e padrões que possam auxiliar na tomada de decisões estratégicas e prevenção de falhas.
 
-Sugere-se que a equipe utilize questionários e/ou entrevistas a fim de conhecer os atores que compõem o público alvo.]
-
-Os links abaixo podem ajudar a equipe a conhecer um pouco mais sobre o público-alvo. 
-
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-
+Esses perfis possuem familiaridade com ferramentas como Jira, GitHub, GitLab e sistemas de atendimento técnico. A solução visa atender às suas necessidades específicas por meio de um sistema contextualizado, ágil e proativo.
