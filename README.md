@@ -1,4 +1,4 @@
-# RDI_KD
+# RDI-KB - StackOverlord
 
 Desenvolver um sistema de suporte inteligente baseado em uma base de conhecimento construída a partir de incidentes registrados e histórico de commits em repositórios Git. O sistema utilizará Inteligência Artificial para interagir com usuários por meio de uma interface conversacional.
 
