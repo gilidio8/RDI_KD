@@ -1,25 +1,16 @@
-# Título do Projeto
+# RDI_KD
 
-`CURSO`
+Desenvolver um sistema de suporte inteligente baseado em uma base de conhecimento construída a partir de incidentes registrados e histórico de commits em repositórios Git. O sistema utilizará Inteligência Artificial para interagir com usuários por meio de uma interface conversacional.
 
-`DISCIPLINA`
-
-`SEMESTRE`
-
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
-
-## Orientador
-
-* Nome completo do professor
+* Breno
+* Edimilson
+* Gabriel
+* Davi
+* Rafael
+* José
 
 # Documentação
 
