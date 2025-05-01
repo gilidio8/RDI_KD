@@ -63,8 +63,12 @@
 | RNF-03 | Interface amigável e responsiva                                        | Média     |
 | RNF-04 | Código modular e bem documentado para fácil manutenção                 | Média     |
 
+
+
 ## Diagrama - Casos de Uso
 ![image](https://github.com/user-attachments/assets/21bc2b8d-aa0b-44b1-94c1-35c9b7967b3b)
+
+
 
 ## Diagrama de Atividades
 ![Imagem do WhatsApp de 2025-05-01 à(s) 11 01 43_28f09c64](https://github.com/user-attachments/assets/c1e0404d-5798-4cbb-865a-44cbf07ddc2c)
