@@ -211,6 +211,484 @@ Controle suas sessões e acesso à conta.
 
 ---
 
+# Dashboard Principal - RDI-KD
+
+![image](https://github.com/user-attachments/assets/70edc52a-b897-44ae-9ef7-76f8bddedc5f)
+
+![image](https://github.com/user-attachments/assets/d27e1bb1-51f3-45a9-946d-5d5cf0bd1046)
+
+## Visão Geral
+
+O **Dashboard** é a tela principal do sistema RDI-KD, oferecendo uma visão completa e centralizada de toda sua atividade de desenvolvimento. Esta interface fornece métricas importantes, acesso rápido aos repositórios e informações sobre o progresso dos projetos.
+
+---
+
+## 1. Métricas Principais
+
+### Cards de Estatísticas Gerais
+
+#### Total de Repositórios
+- **Valor atual**: 15 repositórios
+- **Tendência**: +2 novos este mês
+- **Ícone**: Símbolo de repositório
+- **Indicador de crescimento**: Verde (positivo)
+
+#### Total de Commits
+- **Valor atual**: 324 commits
+- **Tendência**: +23 esta semana
+- **Ícone**: Símbolo de commit/branch
+- **Indicador de atividade**: Mostra produtividade recente
+
+#### Colaboradores
+- **Valor atual**: 8 colaboradores
+- **Tendência**: +1 novo colaborador
+- **Ícone**: Símbolo de pessoas/usuários
+- **Indicador de crescimento**: Expansão da equipe
+
+#### Projetos Ativos
+- **Valor atual**: 12 projetos
+- **Tendência**: 3 atualizados hoje
+- **Ícone**: Símbolo de gráfico/trending
+- **Status de atividade**: Projetos com desenvolvimento ativo
+
+---
+
+## 2. Seção de Repositórios
+
+### Navegação entre Abas
+- **Repositórios**: Lista completa dos repositórios do usuário
+- **Atividade Recente**: Histórico de ações realizadas recentemente
+
+### Botão de Ação Principal
+- **"Novo Repositório"**: Criar um novo repositório diretamente da interface
+
+### Lista de Repositórios
+
+#### 1. projeto-web-app
+- **Descrição**: Aplicação web moderna com React e TypeScript
+- **Linguagem principal**: TypeScript
+- **Estatísticas**:
+  - ⭐ 24 stars
+  - 🔄 8 forks
+- **Última atividade**: 2 horas atrás
+- **Ação**: Botão "Ver Repositório"
+
+#### 2. api-backend
+- **Status**: Privado
+- **Descrição**: API REST para gerenciamento de dados
+- **Linguagem principal**: Node.js
+- **Estatísticas**:
+  - ⭐ 12 stars
+  - 🔄 3 forks
+- **Última atividade**: 1 dia atrás
+- **Ação**: Botão "Ver Repositório"
+
+#### 3. mobile-app
+- **Status**: Arquivado
+- **Descrição**: Aplicativo mobile híbrido
+- **Linguagem principal**: React Native
+- **Estatísticas**:
+  - ⭐ 6 stars
+  - 🔄 2 forks
+- **Última atividade**: 3 dias atrás
+- **Ação**: Botão "Ver Repositório"
+
+---
+
+## 3. Painel de Ações Rápidas
+
+### Funcionalidades de Acesso Rápido
+
+#### Criar Repositório
+- **Função**: Criar novo repositório GitHub
+- **Ícone**: Símbolo de adição (+)
+- **Acesso direto**: Sem necessidade de navegar para outras páginas
+
+#### Criar Branch
+- **Função**: Criar nova branch em repositório existente
+- **Ícone**: Símbolo de ramificação
+- **Workflow**: Desenvolvimento colaborativo
+
+#### Convidar Colaborador
+- **Função**: Adicionar novos membros à equipe
+- **Ícone**: Símbolo de pessoas
+- **Gestão de equipe**: Facilita expansão do time
+
+#### Configurações
+- **Função**: Acesso direto às configurações do sistema
+- **Ícone**: Símbolo de engrenagem
+- **Link**: Redireciona para página de configurações
+
+---
+
+## 4. Progresso Semanal
+
+### Monitoramento de Atividade
+Acompanhe sua produtividade através de métricas semanais com barras de progresso visuais.
+
+#### Commits
+- **Meta semanal**: 30 commits
+- **Progresso atual**: 23/30 (77%)
+- **Status**: Em bom andamento
+- **Barra de progresso**: Azul, quase completa
+
+#### Pull Requests
+- **Meta semanal**: 8 pull requests
+- **Progresso atual**: 5/8 (63%)
+- **Status**: Moderado
+- **Barra de progresso**: Azul, parcialmente preenchida
+
+#### Issues Fechadas
+- **Meta semanal**: 15 issues
+- **Progresso atual**: 12/15 (80%)
+- **Status**: Próximo da meta
+- **Barra de progresso**: Azul, quase completa
+
+### Análise de Performance
+- **Tendência**: Atividade consistente durante a semana
+- **Pontos fortes**: Alto número de commits e resolução de issues
+- **Área de melhoria**: Aumentar número de pull requests
+
+---
+
+## 5. Linguagens Populares
+
+### Distribuição de Tecnologias
+Visualização das linguagens mais utilizadas nos seus projetos.
+
+#### TypeScript
+- **Porcentagem**: 45%
+- **Status**: Linguagem predominante
+- **Indicador visual**: Círculo azul
+
+#### JavaScript
+- **Porcentagem**: 30%
+- **Status**: Segunda mais utilizada
+- **Indicador visual**: Círculo amarelo
+
+#### Node.js
+- **Porcentagem**: 15%
+- **Status**: Backend principal
+- **Indicador visual**: Círculo verde
+
+#### React Native
+- **Porcentagem**: 10%
+- **Status**: Desenvolvimento mobile
+- **Indicador visual**: Círculo azul claro
+
+### Insights Tecnológicos
+- **Stack principal**: Frontend moderno com TypeScript/React
+- **Backend**: Predominantemente Node.js
+- **Mobile**: Foco em React Native para desenvolvimento híbrido
+- **Tendência**: Forte adoção de TypeScript para type safety
+
+---
+
+## 6. Funcionalidades do Dashboard
+
+### Atualização em Tempo Real
+- **Métricas dinâmicas**: Dados atualizados automaticamente
+- **Sincronização GitHub**: Integração contínua com repositórios
+- **Indicadores visuais**: Status de tendência em tempo real
+
+### Navegação Intuitiva
+- **Cards interativos**: Clique para detalhes específicos
+- **Ações contextuais**: Botões relevantes para cada repositório
+- **Acesso rápido**: Shortcuts para funcionalidades principais
+
+### Personalização
+- **Métricas relevantes**: Foco nas informações mais importantes
+- **Layout responsivo**: Adaptação a diferentes tamanhos de tela
+- **Tema consistente**: Interface integrada com configurações globais
+
+---
+
+## 7. Casos de Uso do Dashboard
+
+### Para Desenvolvedores Individuais
+- **Monitoramento**: Acompanhar produtividade pessoal
+- **Organização**: Visualizar todos os projetos em um local
+- **Planejamento**: Identificar áreas que precisam de atenção
+
+### Para Líderes de Equipe
+- **Overview**: Visão geral da atividade da equipe
+- **Gestão**: Acompanhar colaboradores e projetos ativos
+- **Métricas**: Avaliar performance e produtividade
+
+### Para Gerentes de Projeto
+- **Status**: Estado atual de todos os projetos
+- **Progresso**: Acompanhamento de metas semanais
+- **Recursos**: Distribuição de tecnologias e linguagens
+
+---
+
+### Benefícios Principais
+- **Visibilidade completa**: Todos os dados importantes em uma tela
+- **Produtividade**: Acesso rápido às ações mais comuns
+- **Insights**: Análise visual do progresso e performance
+- **Integração**: Conexão seamless com GitHub
+
+### Recomendações de Uso
+1. **Consulta diária**: Use como ponto de partida para trabalho
+2. **Acompanhamento**: Monitore métricas semanais regularmente
+3. **Planejamento**: Use insights para definir próximos passos
+4. **Colaboração**: Utilize ações rápidas para gestão de equipe
+
+# Evolução da Inteligência Artificial - RDI-KD
+
+![image](https://github.com/user-attachments/assets/f0771159-357d-4d6d-8346-ca048e77542b)
+
+## Visão Geral
+
+A seção **Evolução da Inteligência Artificial** oferece um dashboard completo para acompanhar o progresso e métricas de desenvolvimento dos modelos de IA integrados ao sistema RDI-KD. Esta interface permite monitorar performance, deployments, treinamentos e análises detalhadas dos algoritmos em uso.
+
+**Descrição**: Acompanhe o progresso e métricas de desenvolvimento dos modelos de I.A.
+
+---
+
+## 1. Métricas Principais
+
+### Cards de Estatísticas Gerais
+
+![image](https://github.com/user-attachments/assets/f0771159-357d-4d6d-8346-ca048e77542b)
+
+#### Modelos Ativos
+- **Valor atual**: 24 modelos
+- **Tendência**: +3 novos este mês
+- **Ícone**: Símbolo de informação
+- **Status**: Crescimento positivo na base de modelos
+
+#### Projetos em Desenvolvimento
+- **Valor atual**: 8 projetos
+- **Tendência**: +2 iniciados recentemente
+- **Ícone**: Símbolo de código/desenvolvimento
+- **Status**: Atividade de desenvolvimento crescente
+
+#### Precisão Média
+- **Valor atual**: 95.2%
+- **Tendência**: +2.3% vs mês anterior
+- **Ícone**: Símbolo de alvo/precisão
+- **Status**: Excelente performance com melhoria contínua
+
+#### Uptime dos Sistemas
+- **Valor atual**: 99.8%
+- **Status**: Excelente estabilidade
+- **Ícone**: Símbolo de tendência/uptime
+- **Qualidade**: Alta disponibilidade dos serviços
+
+---
+
+## 2. Navegação por Abas
+
+### Estrutura de Navegação
+- **Performance**: Métricas de desempenho e evolução temporal
+- **Modelos**: Análise de deployments e versões
+- **Treinamento**: Progresso de datasets e validação
+
+---
+
+## 3. Aba Performance
+
+![image](https://github.com/user-attachments/assets/f0771159-357d-4d6d-8346-ca048e77542b)
+
+### Evolução da Performance
+**Descrição**: Métricas de precisão, velocidade e eficiência ao longo do tempo
+
+#### Gráfico de Linha Temporal
+- **Período**: Janeiro a Junho
+- **Eixo Y**: Escala de 0 a 200
+- **Duas métricas principais**:
+  - **Linha roxa**: Evolução crescente (aprox. 120 a 190)
+  - **Linha azul**: Estabilidade (aprox. 80 a 95)
+
+#### Análise de Tendências
+- **Crescimento consistente**: Linha roxa mostra melhoria contínua
+- **Estabilidade**: Linha azul mantém performance constante
+- **Sazonalidade**: Picos de performance em determinados períodos
+
+---
+
+## 4. Uso de Algoritmos
+
+![image5](image5)
+
+### Distribuição de Tecnologias IA
+
+#### Gráfico de Pizza - Algoritmos Utilizados
+- **Machine Learning**: 35% (azul)
+- **Deep Learning**: 28% (roxo)
+- **Natural Language**: 25% (verde)
+- **Neural Networks**: 22% (azul claro)
+
+#### Insights Tecnológicos
+- **Predominância**: Machine Learning como tecnologia principal
+- **Diversificação**: Boa distribuição entre diferentes abordagens
+- **Balanceamento**: Uso equilibrado de tecnologias complementares
+
+---
+
+## 5. Atividades Recentes
+
+![image5](image5) ![image6](image6)
+
+### Timeline de Atividades
+
+#### Modelo v2.1 deployado
+- **Status**: ✅ Concluído
+- **Tempo**: 2 horas atrás
+- **Tipo**: Deploy de produção
+
+#### Treinamento de dataset concluído
+- **Status**: 📊 Concluído
+- **Tempo**: 4 horas atrás
+- **Tipo**: Processamento de dados
+
+#### Otimização de performance iniciada
+- **Status**: ⚠️ Em andamento
+- **Tempo**: 6 horas atrás
+- **Tipo**: Melhoria de sistema
+
+#### Precisão aumentou 2.3%
+- **Status**: 📈 Melhoria
+- **Tempo**: 1 dia atrás
+- **Tipo**: Evolução de performance
+
+---
+
+## 6. Ações Rápidas
+
+![image6](image6)
+
+### Funcionalidades de Acesso Direto
+
+#### Novo Modelo
+- **Função**: Criar/configurar novo modelo de IA
+- **Ícone**: Símbolo de informação
+- **Workflow**: Iniciar desenvolvimento de modelo
+
+#### Carregar Dataset
+- **Função**: Upload de novos conjuntos de dados
+- **Ícone**: Símbolo de documento
+- **Processo**: Preparação para treinamento
+
+#### Iniciar Treinamento
+- **Função**: Começar processo de treinamento
+- **Ícone**: Símbolo de raio/energia
+- **Operação**: Execução de algoritmos de aprendizado
+
+#### Relatório Detalhado
+- **Função**: Gerar análise completa de performance
+- **Ícone**: Símbolo de gráfico
+- **Output**: Documento com métricas detalhadas
+
+---
+
+## 7. Aba Modelos
+
+![image7](image7)
+
+### Deployments por Versão
+**Descrição**: Número de deployments e taxa de sucesso por versão do modelo
+
+#### Gráfico de Barras Empilhadas
+- **Versões analisadas**: v1.0, v1.1, v1.2, v2.0, v2.1
+- **Métricas por versão**:
+  - **Barras azuis**: Deployments (falhas)
+  - **Barras verdes**: Sucesso
+
+#### Análise de Versões
+- **v1.0**: ~15 deployments, ~85 sucessos
+- **v1.1**: ~20 deployments, ~90 sucessos
+- **v1.2**: ~25 deployments, ~95 sucessos
+- **v2.0**: ~30 deployments, ~95 sucessos
+- **v2.1**: ~28 deployments, ~97 sucessos
+
+#### Tooltip Detalhado (v2.1)
+- **Deployments**: 28
+- **Success**: 97
+- **Taxa de sucesso**: 97/125 = 77.6%
+
+---
+
+## 8. Aba Treinamento
+
+![image8](image8)
+
+### Progresso do Treinamento
+**Descrição**: Datasets processados e resultados de treinamento/validação
+
+#### Gráfico de Área Empilhada
+- **Período**: Semana 1 a Semana 4
+- **Métricas empilhadas**:
+  - **Verde**: Treinamento (base)
+  - **Laranja**: Validação (topo)
+
+#### Dados da Semana 4
+- **Treinamento**: 94 datasets processados
+- **Validação**: 98 datasets validados
+- **Total**: 192 datasets processados
+
+#### Tendências de Treinamento
+- **Crescimento linear**: Aumento consistente ao longo das semanas
+- **Validação crescente**: Mais datasets sendo validados
+- **Qualidade**: Proporção balanceada entre treinamento e validação
+
+---
+
+## 9. Funcionalidades Avançadas
+
+### Monitoramento em Tempo Real
+- **Métricas dinâmicas**: Atualizações automáticas de performance
+- **Alertas**: Notificações de mudanças significativas
+- **Histórico**: Rastreamento de evolução temporal
+
+### Análise Comparativa
+- **Versões**: Comparação entre diferentes versões de modelos
+- **Algoritmos**: Análise de performance entre tecnologias
+- **Períodos**: Comparação temporal de métricas
+
+### Integração com Desenvolvimento
+- **CI/CD**: Integração com pipelines de deployment
+- **Versionamento**: Controle de versões de modelos
+- **Rollback**: Capacidade de reverter para versões anteriores
+
+---
+
+## 10. Casos de Uso
+
+### Para Data Scientists
+- **Experimentação**: Acompanhar resultados de experimentos
+- **Otimização**: Identificar oportunidades de melhoria
+- **Validação**: Verificar qualidade dos modelos
+
+### Para DevOps/MLOps
+- **Deployment**: Monitorar deployments e sua taxa de sucesso
+- **Infraestrutura**: Acompanhar uptime e estabilidade
+- **Automação**: Integrar com pipelines de CI/CD
+
+### Para Gestores de Produto
+- **KPIs**: Acompanhar métricas de negócio
+- **Roadmap**: Planejar evoluções dos modelos
+- **ROI**: Avaliar retorno dos investimentos em IA
+
+---
+
+## Considerações Finais
+
+O dashboard de **Evolução da Inteligência Artificial** oferece:
+
+### Benefícios Principais
+- **Visibilidade completa**: Todas as métricas de IA em um local
+- **Decisões baseadas em dados**: Insights para melhorias
+- **Monitoramento contínuo**: Acompanhamento em tempo real
+- **Gestão de qualidade**: Controle de performance dos modelos
+
+### Melhores Práticas
+1. **Monitoramento regular**: Verificar métricas diariamente
+2. **Análise de tendências**: Identificar padrões de longo prazo
+3. **Validação contínua**: Manter qualidade dos datasets
+4. **Deployment controlado**: Usar métricas para decisões de release
+
 ## Considerações Finais
 
 O **RDI-KD** é um assistente inteligente para desenvolvedores que buscam agilidade e qualidade em revisões de código. Ele atua como um revisor técnico, apontando falhas, sugerindo melhorias e reforçando boas práticas de desenvolvimento.
